@@ -57,7 +57,7 @@ Item Dupe, Inventory Glitch, etc:
 All of those tricks are still in the game. 
 
 Invalid Rom:
-There are a couple of different roms floating around and some will read as invalid. The randomizer will work for the US v1.0 of Phantasy Star II. Also, there are a couple of different files of this floating around as well. The correct file size that will work with this randomizer is 768,432 bytes. 
+There are a couple of different roms floating around and some will read as invalid. The randomizer will work for a certain file size. The correct file size that will work with this randomizer is 768,432 bytes. 
 
 5. Future Features and Ideas
 
